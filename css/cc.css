@@ -403,7 +403,7 @@ header.masthead .intro-text .intro-heading {
 .timeline > li {
     position: relative;
     min-height: 50px;
-    margin-bottom: 50px;
+    margin-bottom: 10px;
 }
 
 .timeline > li:after, .timeline > li:before {
@@ -501,7 +501,7 @@ header.masthead .intro-text .intro-heading {
     }
     .timeline > li {
         min-height: 100px;
-        margin-bottom: 100px;
+        margin-bottom: 10px;
     }
     .timeline > li .timeline-panel {
         float: left;
